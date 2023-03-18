@@ -1,5 +1,5 @@
 # mytget-gui
-(mytget](https://github.com/lytsing/mytget)'s GUI application cross-platform
+[mytget](https://github.com/lytsing/mytget)'s GUI application cross-platform
 
 # usage:
 launch GUI application and download all tha you want by mytget.
